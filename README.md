@@ -9,4 +9,4 @@
 - https://www.blockchain.hr
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&label=VIEWZ&color=green)
+![](https://komarev.com/ghpvc/?username=your-github-username&label=VIEWZ&color=blue)
